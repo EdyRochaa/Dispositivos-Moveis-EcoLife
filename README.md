@@ -13,3 +13,12 @@
 - [ ] Autenticação via e-mail e senha
 - [ ] Login com redes sociais (Google, Apple, Facebook)
 - [ ] Botão Entrar em destaque e link para tela de Cadastro
+
+### ⚙️ Boaz Henrique — Backend / QA
+ 
+**Tela: Progresso / Impacto**
+ 
+- [ ] Gráfico de barras do Progresso Semanal
+- [ ] Métricas: Carbono Reduzido (kg), Water Saved, Carbon Saved
+- [ ] Emblemas conquistados pelo usuário
+- [ ] Lógica de persistência dos dados de progresso
