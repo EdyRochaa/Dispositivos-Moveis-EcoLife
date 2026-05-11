@@ -19,3 +19,13 @@
 - [ ] Tela de **Login** — autenticação via e-mail/senha e redes sociais
 - [ ] Tela de **Boas-Vindas** — saudação personalizada após autenticação
 - [ ] Componentes de formulário reutilizáveis (inputs, botões, validações)
+
+### ⚙️ Boaz Henrique — Backend / QA
+ 
+> Responsável pela lógica de negócio, persistência de dados e testes.
+ 
+**Telas / Responsabilidades:**
+- [ ] Tela de **Progresso / Impacto** — gráfico semanal, Carbono Reduzido (kg), Water Saved, Carbon Saved, emblemas conquistados
+- [ ] Tela de **Histórico** — visualização cronológica de hábitos concluídos com datas e detalhes (RF03)
+- [ ] Lógica de persistência de dados (AsyncStorage / banco local)
+- [ ] Testes e validações das funcionalidades CRUD
