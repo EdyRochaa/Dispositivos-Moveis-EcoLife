@@ -22,3 +22,14 @@
 - [ ] Métricas: Carbono Reduzido (kg), Water Saved, Carbon Saved
 - [ ] Emblemas conquistados pelo usuário
 - [ ] Lógica de persistência dos dados de progresso
+
+
+### 🎨 Bianca Repolho — UX Designer / Frontend
+ 
+> Responsável pelo design de interface, componentes de UI e estilização visual.
+ 
+**Telas / Responsabilidades:**
+- [ ] Tela **Home / Dashboard** — Pontuação Verde, dicas diárias, atividades recentes
+- [ ] Tela de **Desafios** — lista semanal de hábitos com checkboxes (RF06 — Registro diário)
+- [ ] Tela de **Perfil** — foto, dados pessoais, configurações (notificações, modo escuro, localização)
+- [ ] Sistema de design: paleta de cores, tipografia, ícones e componentes visuais globais
