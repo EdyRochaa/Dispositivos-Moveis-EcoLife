@@ -38,7 +38,7 @@ Aplicativo mobile desenvolvido em Flutter com integração ao Firebase, voltado 
 
 | Nome do Aluno | Telas sob sua responsabilidade | Status | Link do Vídeo de Defesa |
 |---|---|---|---|
-| Edy Rocha | Splash Screen, Navegação Global, Firebase Integration | ✅ | — |
+| Edy Rocha | Splash Screen, Navegação Global, Firebase Integration | ✅ | https://www.loom.com/share/66c90a6f34ce4beb984c42746a2dcc36 |
 | Maria Helloisa | Login | ✅ | — |
 | Boaz Henrique | Progresso / Impacto | ✅ | — |
 | Bianca Repolho | Home / Dashboard, Desafios, Perfil, Design System | ✅ | — |
